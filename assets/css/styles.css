@@ -8,7 +8,7 @@
 --light-gold: #f9f19fff;
 }
 h3 {
-	gentium-plus-regular
+	gentium-plus-regular:black;
   font-family: "Gentium Plus", serif;
   font-weight: 400;
   font-style: normal;
