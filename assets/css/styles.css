@@ -1,5 +1,17 @@
 /* styles.css */
-
-* {
-	font-family: Arial;
+:root {
+/*CSS HEX*/
+--lilac: #c398bcff;
+--wisteria: #c1aeeaff;
+--powder-blue: #a7b8ddff;
+--pale-sky: #b7d0e1ff;
+--light-gold: #f9f19fff;
+}
+h3 {
+	gentium-plus-regular
+  font-family: "Gentium Plus", serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
 }
